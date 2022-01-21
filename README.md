@@ -13,9 +13,11 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWvBHiLqA6ZF3WLoeoaY2nw)
 
 #### Contact me on :
-[<img align="left" alt="Muhammad Sidiq Hardiansyah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -47,6 +49,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCWvBHiLqA6ZF3WLoeoaY2nw)
 
 [twitter]: https://twitter.com/codename_Ayree
+[Gmail]: https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQJDZtCPTtWVzqwPbwwFNhXlMWFCMwxFMSZHSlsLhNQXhsXQGTvGdPhDHVDZZNdgDbfFC
 [youtube]: https://www.youtube.com/channel/UCWvBHiLqA6ZF3WLoeoaY2nw
 [instagram]: https://www.instagram.com/msidiqh_991/
 [linkedin]: https://www.linkedin.com/in/muhammad-sidiq-hardiansyah-006211217/
