@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently studying at **Ahmad Dahlan University**
-- 🌱 I’m currently learning **MERN Stack, Typescript**
+- 🌱 I’m currently learning **MERN/MEVN Stack, Typescript**
 - 📫 How to reach me **msidiqh991@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
