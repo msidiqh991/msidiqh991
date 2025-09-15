@@ -1,28 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="250" height="281" alt="image" src="https://github.com/user-attachments/assets/76985846-2c0f-4b1e-ad32-ec2d2fa4f5c8" />
-"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/msidiqh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@msidiqh991" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
-  </a>
-  <a href="https://discordlookup.com/user/409972089861308416" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=msidiqh991.msidiqh991&left_color=darkturquoise&right_color=cornflowerblue&left_text=Foreigners"  />
+  <img width="400" height="281" alt="image" src="https://github.com/user-attachments/assets/76985846-2c0f-4b1e-ad32-ec2d2fa4f5c8" />
 </div>
 
 ###
@@ -73,6 +52,20 @@
 
 ###
 
+<h3 align="left">🎶 Track Playlist</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://open.spotify.com/user/2l7aafluwkvpamdogtmr2s3s2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2l7aafluwkvpamdogtmr2s3s2&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -91,14 +84,5 @@
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=msidiqh991&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/2l7aafluwkvpamdogtmr2s3s2">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2l7aafluwkvpamdogtmr2s3s2&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
 
 ###
