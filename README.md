@@ -1,7 +1,5 @@
-<br clear="both">
-
 <div align="center">
-  <img width="400" height="281" alt="image" src="https://github.com/user-attachments/assets/76985846-2c0f-4b1e-ad32-ec2d2fa4f5c8" />
+  <img width="500" alt="animated gif" src="https://64.media.tumblr.com/e5709eccbd6d4e6c954314ffa26017a5/tumblr_noggzwBO0l1s3dw0xo1_500.gif" />
 </div>
 
 ###
@@ -66,7 +64,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Statistics</h3>
 
 ###
 
@@ -74,7 +72,15 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msidiqh991&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Recently%20Used%20Languages" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=msidiqh991&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  
+<br clear="both">
+  
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=msidiqh991&show_icons=true&count_private=true&theme=dracula" 
+  height="250" 
+  alt="GitHub stats" 
+/>
+
 </div>
 
 ###
