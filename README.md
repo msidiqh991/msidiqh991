@@ -1,7 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="220" src="https://espressocomsaudade.wordpress.com/wp-content/uploads/2014/06/1sworadart.gif"  />
+  <img width="250" height="281" alt="image" src="https://github.com/user-attachments/assets/76985846-2c0f-4b1e-ad32-ec2d2fa4f5c8" />
+"  />
 </div>
 
 ###
@@ -94,9 +95,10 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Muhammad Sidiq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Muhammad%20Sidiq&count=3&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/2l7aafluwkvpamdogtmr2s3s2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2l7aafluwkvpamdogtmr2s3s2&unique=true" alt="Spotify recently played" />
   </a>
 </div>
+
 
 ###
